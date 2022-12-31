@@ -2,6 +2,7 @@
     "name": "接收",
     "description": "",
     "dependencies": {
+        "1231": "github:xinsughitle/1231#master",
         "core": "*",
         "radio": "*",
         "microphone": "*"
